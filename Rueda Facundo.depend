@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1605649169 source:c:\users\facun\onedrive\desktop\rueda facundo\listasimple.c
+	"listaSimple.h"
+	<string.h>
+
+1605649169 c:\users\facun\onedrive\desktop\rueda facundo\listasimple.h
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+
+1605174198 source:c:\users\facun\onedrive\desktop\rueda facundo\registroarchivo.c
+	"registroArchivo.h"
+
+1605174194 c:\users\facun\onedrive\desktop\rueda facundo\registroarchivo.h
+	<stdlib.h>
+	<stdio.h>
+
+1605648827 source:c:\users\facun\onedrive\desktop\rueda facundo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listaSimple.h"
+	"registroArchivo.h"
+
